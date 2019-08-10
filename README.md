@@ -84,3 +84,7 @@ $('.acc_carousel.some-special-carousel').createCarousel({
   showDots: true
 );
 ```
+
+## Final Notes:
+- A very basic set of CSS has been provided. Like any other Carousel, a personalized CSS will be needed for matching every single expected result.
+- This Carousel has been tested successfully in Google Chrome, Safari, Mozilla Firefox, Edge and IE 11. It was not tested in Opera or IE 10- versions. For these last ones, its unlikely to work properly, due to the used CSS.
