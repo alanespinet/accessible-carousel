@@ -9,7 +9,7 @@ Alan Espinet
 ## Important Notes
 - This Carousel handles **ONE** slide at a time, like _Bootstrap's Carousel_.
 - This Carousel **always loops**.
-- For accessibility reasons, this Carousel **does NOT auto-animates**... (yet).
+- For accessibility reasons, this Carousel **does NOT auto-animate**... (yet).
 
 ## Dependencies
 - jQuery
